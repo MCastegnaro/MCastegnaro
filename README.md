@@ -5,7 +5,8 @@ I'm currently working developing web applications in [PTI](https://www.pti.org.b
 
 ### Graduate
 - Bachelor's degree: Computer Science from the Centro Universitário União Dinâmica Cataratas - UDC;
-- Specialist: Software Engineering from the Federal Technological University of Paraná - UTFPR.
+- Specialist: Software Engineering from the Federal Technological University of Paraná - UTFPR;
+- Certification: Agile Scrum Foundation from [EXIN](https://app.exeed.pro/holder/badge/42865).
 - Next: currently pursuing a postgraduate degree in computer forensics at the VincIT innovation center in Maringá. 
 
 ### Experience 

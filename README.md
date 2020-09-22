@@ -1,7 +1,7 @@
 ## Hi there, I'm Matheus Castegnaro👋🏼 👨🏻‍💻
 
 ### Work 
-I'm currently working developing web applications in [RA](https://www.reclameaqui.com.br) focused in frontend.
+I'm currently working developing web applications in [Reclame AQUI](https://www.reclameaqui.com.br) focused in frontend.
 
 ### Graduate
 - Bachelor's degree: Computer Science from the Centro Universitário União Dinâmica Cataratas - UDC;

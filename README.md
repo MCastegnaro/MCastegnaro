@@ -13,9 +13,15 @@ I'm currently working on [Reclame AQUI](https://www.reclameaqui.com.br) as a sof
 ### Graduate
 - Bachelor's degree: Computer Science from the Centro Universitário União Dinâmica Cataratas - UDC;
 - Specialist: Software Engineering from the Federal Technological University of Paraná - UTFPR;
+- Specialist: Cybersecurity from the Federal Technological University of Paraná - UTFPR;
+- Specialist: Cumputional forenses - VincIT;
 
 ### Experience 
-I have experience in the planning and development of Web systems, with Java and NodeJS projects. I also have experience with developing graphical interfaces with  Angular 8, React, Vue JS, Vanilla JS, Jquery. In addition, I have experience with creating and adapting software development processes, agile methodologies (Scrum, Xp, lean and others), development standards, tests and software quality.
+Hello! My name is Matheus and I am passionate about technology and innovation. With a solid background in IT, I hold a Bachelor's degree in Computer Science, an MBA in Software Engineering, and a specialization in Cybersecurity. Currently, I am further enhancing my skills by pursuing a specialization in Digital Forensics.
+
+At the moment, I work as a Software Engineer at ReclameAqui, where I strive daily to create efficient and secure solutions that have a positive impact on user experience. In parallel, I am a professor at UniAmérica, sharing knowledge and collaborating in the education of future technology professionals.
+
+Additionally, I have the honor of being a mentor and creator at Rocketseat+, where I assist in the development of talents and contribute to the creation of high-quality content. I am always seeking new learning and collaboration opportunities and am eager to connect with other industry professionals. Let's exchange ideas and grow together!
 
 ### Techs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

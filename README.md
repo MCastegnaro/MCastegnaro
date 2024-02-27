@@ -14,7 +14,7 @@ I'm currently working on [Reclame AQUI](https://www.reclameaqui.com.br) core tea
 - Bachelor's degree: Computer Science from the Centro Universitário União Dinâmica Cataratas - UDC;
 - MBA: Software Engineering from the Federal Technological University of Paraná - UTFPR;
 - Specialist: Cybersecurity from the Federal Technological University of Paraná - UTFPR;
-  Agile Scrum Certificate [Exin Scrum](https://app.exeed.pro/holder/badge/42865)
+- Agile Scrum Certificate - Exin [See here](https://app.exeed.pro/holder/badge/42865);
 
 ### Experience 
 Hello! My name is Matheus and I am passionate about technology and innovation. With a solid background in IT, I hold a Bachelor's degree in Computer Science, an MBA in Software Engineering, and a specialization in Cybersecurity. Currently, I am further enhancing my skills by pursuing a specialization in Digital Forensics.
